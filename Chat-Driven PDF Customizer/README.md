@@ -40,6 +40,13 @@ Run the Streamlit app:
 `streamlit run app.py`
 
 ---
+## 🎯 Architecture
+![Architecture](https://github.com/user-attachments/assets/ad6228ac-9ba3-4579-a62c-06be17a8ae54)
+![project-1-architecture diagram](https://github.com/user-attachments/assets/4288d512-ec92-42b7-add5-a6348bc2db02)
+
+
+
+---
 ## 💡Usage
 
 In case You want to run & implement project on your system then follow these steps:
